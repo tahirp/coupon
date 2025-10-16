@@ -38,6 +38,5 @@ Based on the findings, businesses can improve coupon acceptance rates by:
 
 You can find the detailed analysis and code in the following Jupyter notebook:
 
-[Link to your Jupyter Notebook here]
-
+https://github.com/tahirp/customer_coupon/blob/main/coupons.ipynb
 ---
